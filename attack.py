@@ -152,8 +152,8 @@ class CLI(object):
         |                                                                                      |
         |                           Your super computer class helper                           |
         ========================================================================================
-          原仓库地址:ht0Ruial/Jiyu_udp_attack && bingyang1/my_jiyu && Qmeimei10086/class-killer
-                                            由 arlenWKX 修改                                    
+                                  仓库地址: https://github.com/arlenWKX
+            参考: ht0Ruial/Jiyu_udp_attack && bingyang1/my_jiyu && Qmeimei10086/class-killer                       
         
         使用方法: 
         
